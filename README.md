@@ -1,0 +1,2 @@
+# spacecraft_attitude_control
+这是一个基于LQR的航天器姿态控制算法示例
